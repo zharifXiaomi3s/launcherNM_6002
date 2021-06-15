@@ -19,7 +19,7 @@
         "title":"CONTINUE WATCHING",
         "apiType": "hw",
         "colCell": "homevodcolcell",
-        "showMore": "0",
+        "showMore": "1",
         "type":"11",
         "count":"20"
       },
@@ -176,7 +176,7 @@
         ]
       },
       {
-        "title":"OLYMPICS 1",
+        "title":"OLYMPICS",
         "apiType": "nm",
         "colCell": "homevodcolcell",
         "showMore":"0",
@@ -195,7 +195,7 @@
         "title":"CONTINUE WATCHING",
         "apiType": "hw",
         "colCell": "homevodcolcell",
-        "showMore": "0",
+        "showMore": "1",
         "type":"11",
         "count":"20"
       },
